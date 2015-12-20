@@ -13,5 +13,5 @@ sub = tf.sub(x, a)
 print(sub.eval())
 # ==> [-2. -1.]
 
-# Close the Session when we're done.
+# Close the Session when we're done. stupid change
 sess.close()
